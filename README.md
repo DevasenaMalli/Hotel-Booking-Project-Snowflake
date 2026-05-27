@@ -1,4 +1,3 @@
-# Hotel-Booking-Project-Snowflake
 
 
 # Hotel Booking Analytics Project using Snowflake
